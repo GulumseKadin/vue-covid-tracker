@@ -1,3 +1,5 @@
+Developed By : [Şerifhan Işıklı](https://www.linkedin.com/in/serifhan-isikli1/)
+
 # Vue Covid-19 Tracker
 
 Displays the new/total cases and deaths globaly as well as per country
